@@ -1,0 +1,49 @@
+header{
+    background-color: #C55394;
+    background-size: 0px;
+    margin-left: 0%;
+    padding: 20px;
+}
+body{
+background:url("background.png");
+}
+title{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 24px;
+}
+.R
+{
+    image-rendering: 20px;
+    text-align: center;
+    padding: 0px;
+}
+.h1 {
+    color: #C55394;
+    font-family:"courgette" Cursive;
+
+}
+.col{
+    width: 300px;
+    text-align: center;
+    height: 30px;
+    font-family:"courgette", Cursive;
+}
+.image
+{
+    display: flex
+    margin-top:10px
+    paddin-flex:  0px 0px 15px  10px ;
+     whidth:25px   25px 25px 25px
+    height = 150px
+
+  }
+                                                        
+
+
+
+
+footer
+footer-content  100px;
+color:#333;
+
